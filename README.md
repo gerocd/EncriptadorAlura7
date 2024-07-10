@@ -17,7 +17,7 @@ CSS
 JavaScript
 
 Instalación
-Clona este repositorio: git clone https://github.com/tu-usuario/encriptador-de-texto.git
+Clona este repositorio: git clone https://github.com/gerocd/EncriptadorAlura7.git
 Abre el archivo index.html en tu navegador.
 
 Contribución
